@@ -45,8 +45,11 @@
 - [Bill Gates: Innovating to zero!](https://www.ted.com/talks/bill_gates)
 
 ## その他
+#### try something new for 30 days
+- [Matt Cutts: Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
+
 #### better justice system
-[Adam Foss: A prosecutor's vision for a better justice system](https://www.ted.com/talks/adam_foss_a_prosecutor_s_vision_for_a_better_justice_system)
+- [Adam Foss: A prosecutor's vision for a better justice system](https://www.ted.com/talks/adam_foss_a_prosecutor_s_vision_for_a_better_justice_system)
 
 #### to this day
-[Shane Koyczan: To This Day ... for the bullied and beautiful](https://www.ted.com/talks/shane_koyczan_to_this_day_for_the_bullied_and_beautiful/transcript)
+- [Shane Koyczan: To This Day ... for the bullied and beautiful](https://www.ted.com/talks/shane_koyczan_to_this_day_for_the_bullied_and_beautiful/transcript)
