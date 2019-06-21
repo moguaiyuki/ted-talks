@@ -2,7 +2,7 @@
 
 ## 組織マネジメント
 #### 優れたリーダーの伝え方
-- [Simon Sinek: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action){:target="_blank"}
+- [Simon Sinek: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 ##### オリジナルな人を見抜き、特徴を取り入れるコツ
 - [Adam Grant: The surprising habits of original thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
