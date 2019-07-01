@@ -41,6 +41,9 @@
 #### Chobani(新しいCEOの形)
 - [Hamdi Ulukaya: The anti-CEO playbook](https://www.ted.com/talks/hamdi_ulukaya_the_anti_ceo_playbook)
 
+#### Now-istになろう
+- [Joi Ito: Want to innovate? Become a "now-ist"](https://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist)
+
 #### ビルゲイツ
 - [Bill Gates: Innovating to zero!](https://www.ted.com/talks/bill_gates)
 
