@@ -22,6 +22,9 @@
 #### やり抜く力(GRID)
 - [Angela Lee Duckworth: Grit: The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
+#### ティール組織
+- [Reinventing Organizations](https://www.youtube.com/watch?v=gcS04BI2sbk)
+
 ## スタートアップ
 #### Airbnb(信頼のデザイン)
 - [Joe Gebbia: How Airbnb designs for trust](https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust)
@@ -48,6 +51,9 @@
 - [Bill Gates: Innovating to zero!](https://www.ted.com/talks/bill_gates)
 
 ## その他
+#### あらゆることをサクッと学ぶ方法
+- [Josh Kaufman:The First 20 Hours - How to Learn Anything](https://jp.voicetube.com/videos/7036)
+
 #### try something new for 30 days
 - [Matt Cutts: Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
 
